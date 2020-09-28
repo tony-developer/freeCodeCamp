@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+
+<main class="main">
+    <form name="my-form" class="example-form" novalidate>
+        <div class="form-group">
+            <!-- id задаётся чтобы связать с инпутом, поэтому по клике на label поле становится активным -->
+            <label for="fio" class="form-group__label">Фамилия, имя, отчество</label>
+            <div class="form-group__container">
+                <input
+                        id="fio"
+                        name="fio"
+                        type="text"
+                        class="form-group__input"
+                        placeholder="Чехословацкий Виктор Николаевич"
+                        minlength="3"
+                        maxlength="60"
+                        required />
+                <span class="form-group__input-error"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="email" class="form-group__label">Email</label>
+            <div class="form-group__container">
+                <!-- Паттерн используем, потому то стандартная валидация считает mail@localhost - валидным адресом  -->
+                <input
+                        id="email"
+                        name="email"
+                        class="form-group__input"
+                        type="email"
+                        placeholder="easybreathy@mail.ru"
+                        pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}"
+                        required>
+                <span class="form-group__input-error"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="tel" class="form-group__label">Телефон: </label>
+            <div class="form-group__container">
+                <input
+                        id="tel"
+                        name="tel"
+                        class="form-group__input"
+                        type="tel"
+                        placeholder="+7 978 66 77 311"
+                        required>
+                <span class="form-group__input-error"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="age" class="form-group__label">Возраст</label>
+            <div class="form-group__container">
+                <input
+                        id="age"
+                        name="age"
+                        class="form-group__input"
+                        type="number"
+                        min="18"
+                        max="100"
+                        step="1"
+                        placeholder="18">
+                <span class="form-group__input-error"></span>
+            </div>
+        </div>
+        <button class="my-form__submit" type="submit">Отправить</button>
+    </form>
+</main>
+<script src="index.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+pwd
+ls -a
+cd Desktop/
+ls -a
+mkdir for-NKO
+npx create-nuxt-app rak-lichitsa
+code rak-lechitsa
+git --version
+git config --global user.name "silvertony"
+git config --global user.email "anton.serebriackoff@yandex.ru"
+git config --global user.name "tony-developer"
+git config --global user.email "anton.serebriackoff@yandex.ru"
+зцв
+ды
+ls
+cd Программирование/
+ды
+ls
+mkdir git
+cd git
+ls
+pwd
+git clone https://github.com/tony-developer/sites.git
+ls
+cd sites/
+ls
+ls- a
+ls -a
+git checkout -b develop
+pwd
+sudo apt-get install zsh
+$ sudo apt-get install zsh

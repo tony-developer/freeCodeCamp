@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89d1764f-f351-4f4e-abba-2b27debcfe77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hDRHamjQhHNTDiNG6kL2daZg5E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/git-test/test.js" working-dir="$PROJECT_DIR$/git-test">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89d1764f-f351-4f4e-abba-2b27debcfe77" name="Default Changelist" comment="" />
+      <created>1599543591901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599543591901</updated>
+      <workItem from="1599543594173" duration="833000" />
+      <workItem from="1600848057967" duration="77000" />
+      <workItem from="1601108160859" duration="18697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="709" height="252" key="GridCell.Tab.0.bottom" timestamp="1601228602246">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="709" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601228602246" />
+    <state width="709" height="252" key="GridCell.Tab.0.center" timestamp="1601228602242">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="709" height="252" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601228602242" />
+    <state width="709" height="252" key="GridCell.Tab.0.left" timestamp="1601228602241">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="709" height="252" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601228602241" />
+    <state width="709" height="252" key="GridCell.Tab.0.right" timestamp="1601228602243">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="709" height="252" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601228602243" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601125708881">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1601116329946" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.814@0.23.1440.814" timestamp="1601125708881" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+ssh root@185.179.190.72
+ssh root@185.179.190.72
+ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install python3
+brew install python3
+brew install python3
+python
+python
+python3
+python-v
+python v
+sudo killall VDCAssistant
