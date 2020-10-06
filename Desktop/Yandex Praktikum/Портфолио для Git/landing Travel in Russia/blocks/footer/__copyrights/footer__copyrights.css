@@ -1,0 +1,7 @@
+.footer__copyrights {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin: 0;
+    padding: 0;  
+}

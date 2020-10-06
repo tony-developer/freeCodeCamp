@@ -1,0 +1,8 @@
+@import url(./_picture/_kamchatka/video__item_picture_kamchatka.css);
+@import url(./_picture/_observatory/video__item_picture_observatory.css);
+
+.video__item {
+    display: flex;
+    flex-direction: column;
+    color: #ffffff; 
+}

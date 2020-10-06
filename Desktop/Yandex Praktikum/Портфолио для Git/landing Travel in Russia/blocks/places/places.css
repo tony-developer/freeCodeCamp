@@ -1,0 +1,6 @@
+@import url(./_location/places_location.css);
+
+.places {
+    font-family: 'Inter', 'Arial', sans-serif;
+    width: 984px;
+}

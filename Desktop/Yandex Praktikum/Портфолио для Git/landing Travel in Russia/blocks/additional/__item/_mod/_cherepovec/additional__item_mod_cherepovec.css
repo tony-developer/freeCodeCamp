@@ -1,0 +1,6 @@
+.additional__item_mod_cherepovec {
+    background-image: url('../../../../../images/additinalImage2.jpg');
+}
+.additional__item_mod_cherepovec:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../../../../../images/additinalImage2.jpg');
+}

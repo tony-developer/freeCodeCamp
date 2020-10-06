@@ -1,0 +1,19 @@
+@import url(./__title/intro__title.css);
+@import url(./__subtitle/intro__subtitle.css);
+@import url(./__content-row/intro__content-row.css);
+@import url(./__text/intro__text.css);
+@import URL(./__author/intro__author.css);
+@import url(./__quantity/intro__quantity.css);
+@import url(../container/container.css);
+@import url(./__info/intro__info.css);
+@import url(./__author-person/intro__author-person.css);
+@import url(./__quantities/intro__quantities.css);
+@import url(./__quantity-number/intro__quantity-number.css);
+
+.intro {
+    font-family: 'Inter', 'Arial', sans-serif;
+    width: 984px;
+    background: #2A2C2F;
+    color: #FFFFFF;
+    margin: auto;
+}

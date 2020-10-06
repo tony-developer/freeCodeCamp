@@ -1,0 +1,10 @@
+.video__item_picture_kamchatka {
+    background-image: url(../../../../../images/item-bg1.jpg);
+    width: 583px;
+    height: 323px;   
+    border-radius: 5px;
+}
+.video__item_picture_kamchatka:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../../../../../../images/item-bg1.jpg);
+    background-blend-mode: normal;
+}

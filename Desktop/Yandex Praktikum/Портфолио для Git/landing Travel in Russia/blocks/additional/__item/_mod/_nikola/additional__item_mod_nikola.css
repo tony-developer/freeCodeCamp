@@ -1,0 +1,6 @@
+.additional__item_mod_nikola {
+    background-image: url('../../../../../images/additinalImage4.jpg');
+}
+.additional__item_mod_nikola:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../../../../../images/additinalImage4.jpg');
+}

@@ -1,0 +1,5 @@
+.place__title-website {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 60px;   
+}

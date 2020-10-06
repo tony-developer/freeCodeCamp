@@ -1,0 +1,11 @@
+@import url(./__image/comment__image.css);
+@import url(./__quote/comment__quote.css);
+@import url(./__author/comment__author.css);
+
+.comment {
+    max-width: 382px;
+    margin-right: 19px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inter', 'Arial', sans-serif;
+}

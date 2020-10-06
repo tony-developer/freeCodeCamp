@@ -1,0 +1,14 @@
+@import url(./_location/photo-grid_location.css);
+@import url(./__item/photo-grid__item.css);
+
+
+.photo-grid {
+    font-family: 'Inter', 'Arial', sans-serif;
+    max-width: 1184px;
+    display: grid;
+    grid-template-columns: repeat(4,284px);
+    grid-template-rows: repeat(3,188px);
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    justify-items: stretch;
+}

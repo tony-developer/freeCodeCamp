@@ -1,0 +1,17 @@
+@import url(./__copyrights/footer__copyrights.css);
+@import url(./__links/footer__links.css);
+@import url(./__link/footer__link.css);
+@import url(./__copyright/footer__copyright.css);
+
+.footer {
+    font-family: 'Inter', 'Arial', sans-serif;
+    width: 1184px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 160px;
+    min-height: 23px;
+    align-items: center;
+    padding-bottom: 48px; 
+}

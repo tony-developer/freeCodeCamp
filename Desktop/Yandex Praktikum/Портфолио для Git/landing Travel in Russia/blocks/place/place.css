@@ -1,0 +1,20 @@
+@import url(./_location/place_location.css);
+@import url(./__title-website/place__title-website.css);
+@import url(./__title/place__title.css);
+@import url(./__website/place__website.css);
+@import url(./__url-heading/place__url-heading.css);
+@import url(./__url/place__url.css);
+@import url(./__image-paragraphs/place__image-paragraphs.css);
+@import url(./__image/place__image.css);
+@import url(./__paragraph/place__paragraph.css);
+@import url(../container/container.css);
+@import url(./__url:hover/place__url:hover.css);
+@import url(./__paragraph:last-of-type/place__paragraph:last-of-type.css);
+
+.place {
+    font-family:'Inter','Arial', sans-serif;
+    width: 984px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;     
+}

@@ -1,0 +1,16 @@
+@import url(./__logo/header__logo.css);
+@import url(./__lang/header__lang.css);
+/* @import url(./__lang/header__lang:first-of-type.css); */
+/* @import url(./__lang/header__lang:hover.css); */
+/* @import url(./__lang/header__lang-decoration.css); */
+@import url(./__langs/header__langs.css);
+
+
+.header {
+    font-family: 'Inter', 'Arial', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;  
+    min-height: 112px;
+}

@@ -1,0 +1,17 @@
+@import url(./_mod/_byhta/additional__item_mod_byhta.css);
+@import url(./_mod/_shihan/additional__item_mod_shihan.css);
+@import url(./_mod/_cherepovec/additional__item_mod_cherepovec.css);
+@import url(./_mod/_nikola/additional__item_mod_nikola.css);
+
+.additional__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 16px;
+    border-radius: 5px;
+    width: 284px;
+    height: 330px;
+}
+.additional__item:last-of-type {
+    margin-right: 0;
+}

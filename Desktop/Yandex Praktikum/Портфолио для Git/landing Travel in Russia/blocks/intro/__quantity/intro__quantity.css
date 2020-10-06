@@ -1,0 +1,10 @@
+@import url(./_mod/intro__quantity_mod.css);
+
+.intro__quantity {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 20px;
+    max-height: 383px;
+    list-style-type: none;
+}
